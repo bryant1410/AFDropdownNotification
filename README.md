@@ -5,7 +5,7 @@ Dropdown notification view for iOS
 
 ![alt text](https://raw.githubusercontent.com/AlvaroFranco/AFDropdownNotification/master/img/preview.gif?token=ABV8uk1ShHPyKmhdNNJsvN3jYyuhgxJGks5UmHMwwA%3D%3D "Preview")
 
-##Installation
+## Installation
 
 If you're using CocoaPods, just add this line to your Podfile:
 
@@ -16,7 +16,7 @@ If you're not, import these files to your project:
 	AFDropdownNotification.h
 	AFDropdownNotification.m
 
-##Usage
+## Usage
 
 First of all, init your AFDropdownNotification class and set your main class as ```AFDropdownNotificationDelegate```:
 
@@ -86,13 +86,13 @@ Also, you can use blocks:
 ```
 
 
-##TODO
+## TODO
 
 - [ ] Light theme
 - [ ] Autolayout support for rotation
 
-##License
+## License
 AFDropdownNotification is under MIT license so feel free to use it!
 
-##Author
+## Author
 Made by Alvaro Franco. If you have any question, feel free to drop me a line at [alvarofrancoayala@gmail.com](mailto:alvarofrancoayala@gmail.com)
